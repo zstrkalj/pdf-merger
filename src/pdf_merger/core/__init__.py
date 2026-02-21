@@ -1,0 +1,1 @@
+"""Core PDF logic module."""
